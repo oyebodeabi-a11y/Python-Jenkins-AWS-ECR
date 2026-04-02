@@ -23,7 +23,7 @@ pipeline {
             steps {
                 script {
  
-                    git branch: 'master', url: 'https://github.com/oyebodeabi-a11y/Python-Jenkins-AWS-ECR.git' 
+                    git branch: 'main', url: 'https://github.com/oyebodeabi-a11y/Python-Jenkins-AWS-ECR.git' 
                 }
             }
         }
